@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
-
-get_ipython().system('pip install textblob')
-
-
 # In[6]:
 
 
